@@ -56,7 +56,7 @@ $ npm run dev
 This project is under license from MIT. For more details, see the [LICENSE](https://github.com/Osamah-learn/Taxi-Free-API/blob/New/Fix-ReadMe.Md/LICENSE) file.
 
 
-Made with :heart: by <a href="https://github.com/{{Osamah-learn}}" target="_blank">{{Osamah-learn}}</a>
+Made with :heart: by <a href="https://github.com/Osamah-learn" target="_blank">{{Osamah-learn}}</a>
 
 &#xa0;
 
